@@ -1,0 +1,205 @@
+/* A Free Design by Bryant Smith (bryantsmith.com) */
+
+html, body {
+    text-align: center;
+    }
+    p {text-align: left;}
+    
+    body {
+        margin: 10px;
+        padding: 20px;
+        background: #333333 url(images/img01.gif) repeat-x;
+        text-align: justify;
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        color: #666666;
+        background-color: rgb(212, 205, 205);
+    }
+    *
+    {
+      margin: 0 auto 0 auto ;
+     text-align:left;}
+    
+    #header {
+        position:relative;
+        width: 680px;
+        height: 99px;
+        margin-left: 29px;
+        margin-right: 21px;
+        background: url(https://www.html.am/templates/downloads/bryantsmith/asubtlegreen/header.png) no-repeat;
+    }
+    
+    #page
+    {
+      margin: 0 auto 0 auto; 
+      display: table; 
+      height: 100%;  
+      position: relative; 
+      overflow: hidden; 
+      background: #252F33 url(https://www.html.am/templates/downloads/bryantsmith/asubtlegreen/background.png) repeat-y;
+      width: 730px;
+        border: 2px inset;
+      border-top-color: springgreen;
+      border-right-color: tomato;
+      border-left-color: darkcyan;
+      border-bottom-color: darkorange;
+    }
+    
+    
+    .title
+    {
+    position:relative;
+    left:30px;
+    top:22px;
+    text-align:left;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size:32px;
+    font-weight:bold;
+    color:#252F33;
+    padding-left:130px;
+    margin: 0 10px 10px 10px;
+    }
+    
+    .subText
+    {
+    position:relative;
+    left:62px;
+    top:26px;
+    text-align:left;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    font-size:12px;
+    font-weight:bold;
+    color:#CEEAEE;
+    padding-left: 150px;
+    margin-top: 5px;
+    }
+    
+    
+    .articleTitle
+    {
+    text-align:left;
+    padding-left:25px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color: #2C4969;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:24px;
+    font-weight:bold;
+    padding-left: 30px;
+    margin: 5px;
+    }
+    
+    .articleContent
+    {
+    width:auto;
+    position:relative;
+    padding-left:45px;
+    color:#101214;
+    text-align:left;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:25px;
+    margin: 5px;
+    border-collapse: collapse;
+    }
+    
+    .rightLinks
+    {
+    width: 102px;
+    font-size:11px;
+    font-weight:bold;
+    line-height:21px;
+    height:auto;
+    margin-right:-3px;
+    background-image:url(https://www.html.am/templates/downloads/bryantsmith/asubtlegreen/links_branch.png);
+    background-repeat:no-repeat;
+    text-align:right;
+    float:right;
+    border: rgb(68, 68, 68) dashed;
+    padding: 15px 20px 15px 20px;
+    margin: 2px;
+    }
+    
+    .rightLinks a:hover
+    {
+    color:#667765;
+    }
+    
+    
+    
+    .rightLinks .linkTitle
+    {
+    font-size:13px;
+    font-weight:bold;
+    margin-top:30px;
+    margin-bottom:25px;
+    margin-right:0;
+    }
+    
+    
+    #bar
+    {   
+        position:relative;
+        width: 680px;
+        height:57px;
+        margin-left:29px;
+        margin-right:21px;
+        background: url(https://www.html.am/templates/downloads/bryantsmith/asubtlegreen/bar.png) no-repeat;
+        padding: 0;
+    }
+    
+    .menuLink
+    {
+        height:36px;
+        width: 120px;
+        text-align:center;
+        float:left;
+        font-family:Geneva, Arial, Helvetica, sans-serif;
+        font-size:14px;
+        font-weight:bold;
+        color:#252F33;
+        padding: 16px 0 16px 16px;
+    }
+    
+    .menuLink:hover
+    {
+        background: url(https://www.html.am/templates/downloads/bryantsmith/asubtlegreen/bar2.png) repeat-x;
+        }
+    
+    a
+    {
+    text-decoration:none;
+    color:#252F33;
+    }
+    
+    #pageContent
+    {
+    width: 680px;
+    height:500px;
+    }
+    
+    #footer {
+    
+        width: 730px;
+        height:60px;
+        background: url(https://www.html.am/templates/downloads/bryantsmith/asubtlegreen/footer.png) no-repeat;
+    text-align:center;
+    font-size:10px;
+    border: 2px outset;
+    border-top-color: rgb(150, 218, 223);
+    border-right-color: rgb(198, 245, 28);
+    border-left-color: rgb(219, 22, 22);
+    border-bottom-color: darkorange;
+
+    }
+    
+    #footer a
+    {
+    font-size:10px;
+    color:#667765;
+    }
+    
+    html, body {
+    text-align: center;
+    }
+    p {text-align: left;}
+    
